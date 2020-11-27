@@ -330,6 +330,14 @@ Lo he solucionado aplicando la siguiente instrucción
 
 Aqui doy por concluida la primera parte de mi práctica.
 
+
+### Ejercicio 2
+
++ Github, Forks y Pull Requests
+
+	+ Ta y como nos piden en la práctica, hemos hecho un "Fork" del repositorio indicado, sobre nuestro gitHub. Hemos modificado el RADME.md, añadiendo una cita y finalmente, hemos ejecutado un "Pull requests".
+	+ Y ahora a eperar aprobación.
+
 Muchas gracias por todo.
 		
 
