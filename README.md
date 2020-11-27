@@ -1,6 +1,6 @@
 # Git_Web_PT
 
-## Entrega de la práctica de Git de BootCamp Web X
+## Entrega de la práctica de Git del BootCamp Web X
 
 ### Ejercicio 1
 Según nos piden en el enunciado de la práctica, se deberá crear un repositorio y realizar una serie de operaciones desde la cónsola de comandos sobre el mismo, para posteriormente subir el repositorio a gitHub.
@@ -73,7 +73,7 @@ Según nos piden en el enunciado de la práctica, se deberá crear un repositori
 				HEAD está ahora en af00bed modificación 1 del archivo en rama styled 
 		
 
-+ (13) **Hacemos un merge con master (styled absorve a master)**
++ (13) **Hacemos un merge con master (styled absorbe a master)**
 	+ En este paso lo primero que hacemos es verificar que estamos en la rama "styled" para poder absorber a master y lo hacemos de la siguiente forma.
 	
 
@@ -118,7 +118,7 @@ Según nos piden en el enunciado de la práctica, se deberá crear un repositori
 
 		(base) MacBook-Pro-de-Josep:Git_Web_PT jcm$ git commit -m "Modificamos en rama htmlify git-web-pt"
 
-+ (19) **Hacer un merge de "htmlify" en "styled" (styled absorve a htmlify).**
++ (19) **Hacer un merge de "htmlify" en "styled" (styled absorbe a htmlify).**
 	+ El merge del paso 19, ¿Causó algún conflicto?¿Por qué?
 		+ En este paso nos situamos en la rama "styled" ya que es la va a absorber a "htmlify".
 	
